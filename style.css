@@ -1,0 +1,39 @@
+table{
+	height:700px;
+	width:50%;
+	margin-left:15%;
+	font-size:1.3em;
+	color:green;
+}
+
+.nom_mois{
+	color:red;
+	font-size:1.5em;
+}
+
+tr{
+	background-color:lightgrey;
+}
+
+td a{
+	color:red;
+}
+
+.hidden{
+	background-color:pink;
+	position :absolute;
+	top:150px;
+	left:110px;
+	width:100px;
+	
+	border:1px solid blue;
+	font-style: italic;
+
+}
+
+table ,.mois{
+	float:left;
+	margin-right:5%;
+}
+
+.mois{width:15%;}
